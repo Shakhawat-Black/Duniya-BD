@@ -1,0 +1,66 @@
+
+body{
+    width: 100%;
+}
+.main-sec{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.logo{
+    box-shadow: 5px 6px 5px orangered;
+}
+.logo img{
+    width: 10%;
+}
+.main-menu{
+    display: flex;
+    margin-bottom: 60px;
+}
+.catagory{
+    width: 40%;
+    text-align: center;
+}
+#cat{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    margin: 4px 10px;
+    padding: 3px 20px;
+    border-radius: 12px;
+}
+.menu{
+    display: flex;
+    width: 60%;
+}
+.menu h3{
+    margin-left: 4%;
+    margin-right: 3%;
+    padding: 3px 5px;
+}
+.footer-part{
+    display: flex;
+}
+.bottom-logo{
+    width: 30%;
+}
+.bottom-logo img{
+    width: 40%;
+    margin-left: 20%;    
+}
+.bottom-info{
+    width: 30%;
+}
+.bottom-info h3{
+    text-align: center;
+}
+.bottom-account{
+    width: 20%;
+    text-align: center;
+}
+.bottom-policy{
+    width: 20%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
